@@ -1,2 +1,2 @@
-# round mvp
+# Bubbles
 a simple productivity tool
